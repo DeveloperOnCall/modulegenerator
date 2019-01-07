@@ -1,0 +1,47 @@
+{
+    "name": "developeroncall/modulegenerator",
+    "license": "MIT",
+    "description": "Laravel Caffeinated Module CRUD Generator",
+    "keywords": [
+        "laravel",
+        "crud",
+        "crud generator",
+        "caffeinated module generator",
+        "laravel crud generator",
+        "api generator",
+        "caffeinated modules"
+    ],
+    "authors": [
+        {
+            "name": "DeveloperOnCall",
+            "email": "admin@developeroncall.com",
+            "homepage": "http://www.developeroncall.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "^5.3",
+        "caffeinated/modules": "^5.0",
+        "laravelcollective/html": "^5.3"
+    },
+    "require-dev": {
+        "mockery/mockery": "^0.9.6",
+        "phpunit/phpunit": "^5.7",
+        "orchestra/testbench": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "DeveloperOnCall\\ModuleGenerator\\": "src/"
+        },
+        "classmap": [
+            "tests"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "DeveloperOnCall\\ModuleGenerator\\ModuleGeneratorServiceProvider"
+            ]
+        }
+    }
+}
