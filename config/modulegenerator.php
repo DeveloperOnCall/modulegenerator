@@ -2,6 +2,8 @@
 
 return [
 
+    'enable_cafe' => true,
+
     'custom_template' => true,
 
     /*
