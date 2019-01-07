@@ -1,6 +1,6 @@
 # Laravel Caffeinated Module CRUD Generator
 
-[![Build Status](https://travis-ci.org/DeveloperOnCall/modulegenerator.svg?branch=master)](https://travis-ci.org/DeveloperOnCall/modulegenerator)
+[![Build Status](https://travis-ci.org/DeveloperOnCall/modulegenerator.svg)](https://travis-ci.org/DeveloperOnCall/modulegenerator)
 [![Total Downloads](https://poser.pugx.org/developeroncall/modulegenerator/downloads)](https://packagist.org/packages/developeroncall/modulegenerator)
 [![Latest Stable Version](https://poser.pugx.org/developeroncall/modulegenerator/v/stable)](https://packagist.org/packages/developeroncall/modulegenerator)
 [![License](https://poser.pugx.org/developeroncall/modulegenerator/license)](https://packagist.org/packages/developeroncall/modulegenerator)
