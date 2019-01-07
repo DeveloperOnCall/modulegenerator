@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/DeveloperOnCall/modulegenerator.svg)](https://travis-ci.org/DeveloperOnCall/modulegenerator)
 [![Total Downloads](https://poser.pugx.org/developeroncall/modulegenerator/downloads)](https://packagist.org/packages/developeroncall/modulegenerator)
-[![Latest Stable Version](https://poser.pugx.org/developeroncall/modulegenerator/v/stable)](https://packagist.org/packages/developeroncall/modulegenerator)
 [![License](https://poser.pugx.org/developeroncall/modulegenerator/license)](https://packagist.org/packages/developeroncall/modulegenerator)
+[![Latest Stable Version](https://img.shields.io/packagist/v/DeveloperOnCall/modulegenerator.svg)](https://packagist.org/packages/developeroncall/modulegenerator)
 
 This Module Generator package provides various generators for Caffeinated Modules including CRUD, API, Controller, Model, Migration, View .
 
