@@ -1,9 +1,10 @@
 # Laravel Caffeinated Module CRUD Generator
 
 [![Build Status](https://travis-ci.org/developeroncall/modulegenerator.svg)](https://travis-ci.org/developeroncall/modulegenerator.svg)
-[![Total Downloads](https://poser.pugx.org/developeroncall/modulegenerator/d/total.svg)](https://packagist.org/packages/developeroncall/modulegenerator)
-[![Latest Stable Version](https://poser.pugx.org/developeroncall/modulegenerator/v/stable.svg)](https://packagist.org/packages/developeroncall/modulegenerator)
-[![License](https://poser.pugx.org/developeroncall/modulegenerator/license.svg)](https://packagist.org/packages/developeroncall/modulegenerator)
+
+[![Total Downloads](https://poser.pugx.org/developeroncall/modulegenerator/downloads)](https://packagist.org/packages/developeroncall/modulegenerator)
+[![Latest Stable Version](https://poser.pugx.org/developeroncall/modulegenerator/v/stable)](https://packagist.org/packages/developeroncall/modulegenerator)
+[![License](https://poser.pugx.org/developeroncall/modulegenerator/license)](https://packagist.org/packages/developeroncall/modulegenerator)
 
 This Module Generator package provides various generators for Caffeinated Modules including CRUD, API, Controller, Model, Migration, View .
 
@@ -19,6 +20,11 @@ composer require developeroncall/modulegenerator
 ## Author
 
 [DeveloperOnCall](http://www.developeroncall.com) :email: [Email Me](mailto:admin@developeroncall.com)
+
+## Credits
+
+This is an adaptation of the [amazing CRUD Generator package](https://github.com/appzcoder/crud-generator) and builds 
+onto the [best modular system for Laravel](https://github.com/caffeinated/modules)
 
 ## License
 
