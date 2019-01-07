@@ -389,7 +389,7 @@ class ModuleGeneratorViewCommand extends Command
     protected function templateStubs($path)
     {
 
-        $path = '/mnt/sites/ang_fiveseven/app/Modules/'.$this->crudNameCap.'/Resources/Views/';
+        $path = base_path('app/Modules/'.$this->crudNameCap.'/Resources/Views/');
 
         $dynamicViewTemplate = config('modulegenerator.dynamic_view_template')
             ? config('modulegenerator.dynamic_view_template')
