@@ -2,7 +2,6 @@
     "name": "developeroncall/modulegenerator",
     "license": "MIT",
     "description": "Laravel Caffeinated Module CRUD Generator",
-    "version": "v1.1.1",
     "keywords": [
         "laravel",
         "crud",
