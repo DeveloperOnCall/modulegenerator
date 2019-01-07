@@ -13,7 +13,7 @@ This Module Generator package provides various generators for Caffeinated Module
 
 ## Installation
 ```
-composer require developeroncall/modulegenerator --dev
+composer require developeroncall/modulegenerator 
 ```
 
 ## Author
