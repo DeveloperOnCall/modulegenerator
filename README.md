@@ -7,6 +7,9 @@
 
 This Module Generator package provides various generators for Caffeinated Modules including CRUD, API, Controller, Model, Migration, View .
 
+## Screen Shot of Form
+![screen-shot](https://user-images.githubusercontent.com/3272625/50818239-fdf12580-1358-11e9-9743-9d9735ecc5ed.png)
+
 ## Requirements
     Laravel >= 5.7
     PHP >= 7.1.3
